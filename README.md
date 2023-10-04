@@ -11,6 +11,6 @@ I was given the chance to dive into 42's "piscine", which is a 26-day long imers
 </td>
 <td valign="top" width="30%">
   <div align="center">
-    <img src="https://nadei.42sp.org.br/img/InsigneaP3.png" align="center" style="width: 50%" />
+    <img src="https://nadei.42sp.org.br/img/InsigneaP3.png" align="center" style="width: 75%" />
   </div>
 </td></tr></table>

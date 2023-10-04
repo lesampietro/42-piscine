@@ -3,7 +3,7 @@
 This repository is still a Work in Progress!
 I will be showcasing the exercises I was able to make during the 42's selective process.
 
-## 42 São Paulo
+## About École 42 and the Piscine
 <table><tr><td valign="top" width="70%">
 École 42 is a NGO focused on making the technology field more diverse by also giving minorities the opportunity to graduate in software engineering.
 The school's methodology is based in pair-programming and it's recognized worldwide as one of the most innovative and ethical places to study.
